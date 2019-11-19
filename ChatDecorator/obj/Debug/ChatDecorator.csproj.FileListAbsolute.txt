@@ -1,0 +1,6 @@
+C:\Users\eliyy\RiderProjects\ChatDecorator\ChatDecorator\bin\Debug\ChatDecorator.exe
+C:\Users\eliyy\RiderProjects\ChatDecorator\ChatDecorator\bin\Debug\ChatDecorator.pdb
+C:\Users\eliyy\RiderProjects\ChatDecorator\ChatDecorator\obj\Debug\ChatDecorator.csprojAssemblyReference.cache
+C:\Users\eliyy\RiderProjects\ChatDecorator\ChatDecorator\obj\Debug\ChatDecorator.csproj.CoreCompileInputs.cache
+C:\Users\eliyy\RiderProjects\ChatDecorator\ChatDecorator\obj\Debug\ChatDecorator.exe
+C:\Users\eliyy\RiderProjects\ChatDecorator\ChatDecorator\obj\Debug\ChatDecorator.pdb
